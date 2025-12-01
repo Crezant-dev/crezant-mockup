@@ -253,13 +253,13 @@ export default function Home() {
                 timeline.
               </p>
               <a
-                href="mailto:hello@crezant.com"
+                href="mailto:brian@crezant.com"
                 className="inline-flex items-center rounded-full bg-white px-5 py-3 text-sm font-semibold text-[var(--crezant-navy)] shadow-lg shadow-[rgba(0,0,0,0.25)] transition hover:-translate-y-0.5"
               >
                 Email hello@crezant.com
               </a>
             </div>
-            <div className="card-surface bg-white/5 border-white/10 text-slate-100">
+            <div className="card-surface bg-[var(--crezant-navy)] border-white/10 text-slate-100">
               <div className="border-b border-white/10 px-5 py-4 text-sm font-semibold tracking-wide uppercase text-[var(--crezant-gray)]">
                 Helpful details
               </div>
